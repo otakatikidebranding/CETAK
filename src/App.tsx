@@ -1,13 +1,16 @@
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/Header';
-import { Navigation, TabType } from './components/Navigation';
-import { PriceCatalogView } from './components/PriceCatalogView';
-import { PrinterSettingsView } from './components/PrinterSettingsView';
-import { OrderCalculatorView } from './components/OrderCalculatorView';
-import { OrdersListView } from './components/OrdersListView';
-import { EditPriceModal } from './components/EditPriceModal';
-import { ShopSettingsModal } from './components/ShopSettingsModal';
-import { ReceiptModal } from './components/ReceiptModal';
+import { 
+  Header, 
+  Navigation, 
+  TabType,
+  PriceCatalogView, 
+  PrinterSettingsView, 
+  OrderCalculatorView, 
+  OrdersListView, 
+  EditPriceModal, 
+  ShopSettingsModal, 
+  ReceiptModal 
+} from './components';
 import { 
   initialPriceCategories, 
   initialOrders, 
