@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Daftar Harga & Pesanan Cetak",
+  "description": "Aplikasi mobile-friendly manajemen pesanan cetak dan daftar harga digital dengan setting printer Canon & Epson",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
